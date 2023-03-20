@@ -1,6 +1,6 @@
 # MongooseClass
 
-Chapter 1: Introduction to Mongoose and CRUD Operations
+Chapter X: Introduction to Mongoose and CRUD Operations
 
 Mongoose is an Object-Document Mapping (ODM) library for MongoDB and Node.js, which provides a higher level of abstraction for working with MongoDB. It allows you to define data models and schema, and provides a simple and intuitive API for performing CRUD (Create, Read, Update, Delete) operations on MongoDB.
 
