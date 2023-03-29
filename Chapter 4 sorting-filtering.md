@@ -4,7 +4,7 @@ Chapter IV: Sorting and Filtering with Mongoose
 
 In addition to pagination, sorting and filtering are essential techniques for managing and presenting data in your application. Sorting allows you to order the results based on specific criteria, while filtering enables you to narrow down the results based on specific conditions. In this chapter, we will explore how to implement sorting and filtering using Mongoose.
 
-##Sorting with Mongoose
+## Sorting with Mongoose
 
 Sorting in Mongoose is achieved using the sort() method, which takes an object or a string representing the sorting criteria. The object keys or string fields indicate the properties to sort by, and their values determine the sorting order (ascending or descending). Here's an example:
 
@@ -65,7 +65,7 @@ User.find({ age: { $gte: 30 } }) // Filter users with age greater than or equal 
 
 In the above example, we first filter the users with an age greater than or equal to 30 using the `$gte` (greater than or equal to) operator. Then, we sort the users by name in ascending order. Finally, we apply pagination to fetch a specific page of results using the `skip()` and `limit()` methods.
 
-##Conclusion
+## Conclusion
 
 In this chapter, we explored how to implement sorting and filtering using Mongoose. We learned how to use the `sort()` method to order query results based on specific criteria and how to filter results by passing a query object to the `find()` method. We also demonstrated how to combine pagination, sorting, and filtering in a single Mongoose query to create more advanced data retrieval and presentation.
 
