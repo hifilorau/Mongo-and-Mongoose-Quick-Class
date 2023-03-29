@@ -1,6 +1,6 @@
 # MongooseClass
 
-Chapter XIII: Sorting and Filtering with Mongoose
+Chapter IV: Sorting and Filtering with Mongoose
 
 In addition to pagination, sorting and filtering are essential techniques for managing and presenting data in your application. Sorting allows you to order the results based on specific criteria, while filtering enables you to narrow down the results based on specific conditions. In this chapter, we will explore how to implement sorting and filtering using Mongoose.
 
