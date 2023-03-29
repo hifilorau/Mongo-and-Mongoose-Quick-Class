@@ -2,7 +2,7 @@
 
 MongoDB is a NoSQL database that stores data in a flexible, JSON-like format called BSON (Binary JSON). Mongoose is an Object-Document Mapping (ODM) library for MongoDB and Node.js, providing a higher level of abstraction for working with MongoDB. The combination of MongoDB and Mongoose offers a powerful and flexible data storage solution that can be a great alternative to traditional relational databases.
 
-In this chapter, we will discuss why you should consider using MongoDB and Mongoose, and how they differ from relational databases.
+In this mini-course, we will be learning Mongo and Mongoose, an Object Data Modeling Libarary (don't worry we'll get to what this is later) that helps simplify and optimize Mongo queries, but first let's discuss why you should consider using MongoDB and Mongoose, and how they differ from relational databases.
 
 ## Why Use MongoDB and Mongoose?
 
