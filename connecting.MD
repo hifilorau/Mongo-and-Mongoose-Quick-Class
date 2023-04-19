@@ -54,7 +54,7 @@ mongoose.connect(connectionString, {
 
 ```
   
-Replace '<username>', '<password>', and '<dbname>' in the connectionString with the values you obtained in step 6.
+Replace username, password, and dbname in the connectionString with the values you obtained in step 6.
 
 ### Conclusion
 
